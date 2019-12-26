@@ -1,6 +1,9 @@
 <!doctype html>
 <html lang="en">
-
+<?
+$a = 1;
+var_dump($a);    
+?>
 <head>
     <!-- Required meta tags -->
     <meta charset="utf-8">
